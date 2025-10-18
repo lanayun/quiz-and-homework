@@ -1,0 +1,6 @@
+Raj = ("Raj",2013_07_23)
+friend1 = ("friend1",2013_09_23)
+friend2 = ("friend2",2013_07_21)
+friend3 = ("friend3",2013_010_23)
+friend4 = ("friend3",2011_07_23)
+friend5 = ("friend5",2012_011_1)
