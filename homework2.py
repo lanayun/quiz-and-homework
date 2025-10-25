@@ -1,3 +1,3 @@
 word = "congratulation"
 word = word.capitalize()
-print("\n",word)
+print("\n","word")
